@@ -4810,7 +4810,7 @@
 }
 
 /* container */
-@media (min-width: 575px) { .container { max-width: 100%; } }
-@media (min-width: 768px) { .container { max-width: 750px; } }
-@media (min-width: 992px) { .container { max-width: 970px; } }
-@media (min-width: 1200px) { .container { max-width: 1170px; } }
+@media (min-width: 575px) { .container { max-width: 100%; margin-right: 3%; margin-left: 3%;} }
+/*@media (min-width: 768px) { .container { max-width: 100%; } }
+@media (min-width: 992px) { .container { max-width: 100%; } }
+@media (min-width: 1200px) { .container { max-width: 100%; } }*/
