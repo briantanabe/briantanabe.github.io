@@ -1273,6 +1273,7 @@
     .lg-height-40px {height: 40px !important}
     .lg-height-50px {height: 50px !important}
     .lg-height-60px {height: 60px !important}
+    .lg-height-65px {height: 65px !important}
     .lg-height-70px {height: 70px !important}
     .lg-height-80px {height: 80px !important}
     .lg-height-90px {height: 90px !important}
@@ -4810,7 +4811,7 @@
 }
 
 /* container */
-@media (min-width: 575px) { .container { max-width: 100%; margin-right: 3%; margin-left: 3%;} }
+@media (min-width: 575px) { .container { max-width: 100%; margin-right: 0%; margin-left: 0%;} }
 /*@media (min-width: 768px) { .container { max-width: 100%; } }
 @media (min-width: 992px) { .container { max-width: 100%; } }
 @media (min-width: 1200px) { .container { max-width: 100%; } }*/
