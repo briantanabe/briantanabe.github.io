@@ -404,7 +404,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .absolute-bottom-center {left: 50%; top: 80%; position: absolute; -ms-transform: translateX(-50%) translateY(-80%); -moz-transform: translateX(-50%) translateY(-80%); -webkit-transform: translateX(-50%) translateY(-80%); transform: translateX(-50%) translateY(-80%); -o-transform: translateX(-50%) translateY(-80%); }
 
 /* CUSTOM *** */
-.aboutmepicture {margin-left: 5.5%; margin-right: 5.5%; margin-top: 1%;}
+.aboutmepicture {margin-left: 5.5%; margin-right: 5.5%; margin-top: 6%;}
 #aboutmetitle {color: black;}
 #aboutmetext {color: black; margin-bottom: 75px;}
 #activeheader {color: black;}
