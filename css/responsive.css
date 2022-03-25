@@ -1347,7 +1347,7 @@
     header nav .navbar-nav > li > a { margin: 0 18px;}
 
     /* nav box width */
-    header nav.nav-box-width { padding: 0;}
+    header nav.nav-box-width { padding: 0; padding-top: 0px !important}
 
     /* skillbar bar style */
     .box-layout .skillbar-bar-style2 .skillbar {width: 88%} 
